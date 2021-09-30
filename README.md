@@ -6,7 +6,7 @@ This is a repo for expressing yourself. You must follow this particular template
 
 **Stream** CSBS
 
-**Year** 2021
+**Year** 1st year
 
 **Bio**
 
